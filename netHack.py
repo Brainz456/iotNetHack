@@ -10,13 +10,7 @@ def parseArgs():
 
 def main():
     args = parseArgs()
-    return 0
-
-
-
-
-
-
+    print(args.ip)
 
 if __name__ == "__main__":
     main()
