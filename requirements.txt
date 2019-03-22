@@ -1,0 +1,4 @@
+multiprocessing
+scapy
+crytography
+logging
